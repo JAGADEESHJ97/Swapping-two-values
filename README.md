@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-# DEveloped By: JAGADEESH J
+#Developed By:JAGADEESH J
 #Reg no :212223110015
 a=input()
 b=input()
